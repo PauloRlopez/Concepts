@@ -55,7 +55,7 @@ a_prime(23)
 print(a_prime(23))
 
 
-# converting temperatures from Celsius to Fahrenheigt
+# converting temperatures from Celsius to Fahrenheit degrees
 
 def temps(T_in_Fahrenheit):
 	"""
@@ -80,7 +80,7 @@ addme(my_str)
 print("Here is the answer: ", my_str)
 
 
-# outputs 
+# Example of outputs 
 
 
 """
