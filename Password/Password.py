@@ -12,7 +12,7 @@ for i in range(3):
 		print("Wrong password, chances left: ", j-i) # 3 times
 		continue
     
-#print("Try to remember and try next time.")
+# print("Try to remember and try next time.")
 
 
 """
@@ -25,6 +25,7 @@ Welcome
 """
 
 """
+
 If inputting the wrong password:
 
 Enter password: hi
@@ -33,7 +34,6 @@ Enter password: hola
 Wrong password, chances left:  1
 Enter password: chau
 Wrong password, chances left:  0
-
 
 """
 
